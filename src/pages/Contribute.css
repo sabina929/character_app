@@ -1,0 +1,16 @@
+.container.contribute {
+  margin-top: 80px;
+  color: rgba(255, 231, 211, 0.98);
+  font-family: "Gothic";
+  text-align: center;
+}
+.container.contribute h3 {
+  font-size: 2rem;
+}
+.container.contribute p {
+  margin-top: 20px;
+  font-size: 1.2rem;
+}
+.container.contribute p a {
+  color: hsl(43, 77%, 42%);
+}

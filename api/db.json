@@ -1,0 +1,102 @@
+{
+  "characters": [
+    {
+      "id": "1",
+      "imgSrc": "https://cdna.artstation.com/p/assets/images/images/005/832/172/large/mike-hallstein-img-2349.jpg?1494080949",
+      "name": "Euron Greyjoy",
+      "alias": "Crow's Eye, Euron Crow's Eye, Euron Croweye",
+      "title": "Iron King, King of the Isles and the North, King of Salt and Rock, Son of the Sea Wind, Lord Reaper of Pyke, Captain of the Silence",
+      "allegiance": "House Greyjoy",
+      "culture": "Ironborn",
+      "born": "Between 256 AC and 268 AC, at Pyke",
+      "issue": "At least 3 bastards sons",
+      "books": "The World of Ice & Fire (mentioned), A Game of Thrones (appendix), A Clash of Kings (mentioned), A Storm of Swords (mentioned), A Feast for Crows (appears), A Dance with Dragons (mentioned), The Winds of Winter (appears)"
+    },
+    {
+      "id": "2",
+      "imgSrc": "https://vignette.wikia.nocookie.net/gotrp/images/f/f0/Stannis_Baratheon.jpg/revision/latest?cb=20150628165150",
+      "name": "Stannis Baratheon",
+      "alias": "The King in the Narrow Sea, The King of the Painted Table, The dark lord, The King of Dragonstone, The King at the Wall, Azor Ahai reborn/come again, The prince that was promised",
+      "title": "Master of ships (formerly), Ser, Lord of Dragonstone, Lord of Storm's End, King of Westeros, King of the Andals, the Rhoynar, and the First Men (claimant), Lord of the Seven Kingdoms (claimant), Protector of the Realm (claimant)",
+      "allegiance": "House Baratheon of Dragonstone",
+      "culture": "Stormborn",
+      "born": "In 264 AC, at the Storm's End",
+      "spouse": "Selyse Florent",
+      "issue": "Shireen Baratheon",
+      "books": "The World of Ice & Fire (mentioned), A Game of Thrones (mentioned), A Clash of Kings (appears), A Storm of Swords (appears), A Feast for Crows (mentioned), A Dance with Dragons (appears), The Winds of Winter (appears)"
+    },
+    {
+      "id": "3",
+      "imgSrc": "https://awoiaf.westeros.org/images/thumb/a/a0/Cristi_Balanescu_Jon_SnowGhost.png/300px-Cristi_Balanescu_Jon_SnowGhost.png",
+      "name": "Jon Snow",
+      "alias": "Lord Snow, Ser Alliser's Bane, The Snow of Winterfell, The crow-come-over, The Bastard of Winterfell, Lord Crow, The Black Bastard of the Wall",
+      "title": "Lord Commander of the Night's Watch",
+      "allegiance": "House Stark, Night's Watch",
+      "culture": "Northmen",
+      "born": "In 283 AC",
+      "books": "A Game of Thrones (POV), A Clash of Kings (POV), A Storm of Swords (POV), A Feast for Crows (appears), A Dance with Dragons (POV), The Winds of Winter (mentioned)"
+    },
+    {
+      "id": "4",
+      "imgSrc": "https://awoiaf.westeros.org/images/thumb/f/f6/Tyrion_lannister_Sebastian_Giacobino.jpg/350px-Tyrion_lannister_Sebastian_Giacobino.jpg",
+      "name": "Tyrion Lannister",
+      "alias": "The Imp, Halfman, Boyman, Giant of Lannister, Lord Imp, Lord Tywin's Doom, Lord Tywin's Bane, Yollo, Hugor Hill, No-Nose, Freak, Redhands, Monkey demon, The Bloody Hand",
+      "title": "Acting Hand of the King (former), Master of coin (former), Lord of Casterly Rock (claimant)",
+      "allegiance": "House Lannister, Second Sons",
+      "culture": "Westermen",
+      "born": "In 273 AC, at Casterly Rock",
+      "spouse": "1st: Tysha, 2nd: Sansa Stark",
+      "books": "The World of Ice & Fire (mentioned), A Game of Thrones (POV), A Clash of Kings (POV), A Storm of Swords (POV), A Feast for Crows (mentioned), A Dance with Dragons (POV), The Winds of Winter (POV)"
+    },
+    {
+      "id": "5",
+      "imgSrc": "https://awoiaf.westeros.org/images/thumb/e/e1/Mathia_Arkoniel_Jaime_Lannister.jpg/350px-Mathia_Arkoniel_Jaime_Lannister.jpg",
+      "name": "Jaime Lannister",
+      "alias": "Kingslayer, The Lion of Lannister, The Young Lion, Cripple, The golden man",
+      "title": "Ser Lord Commander of the Kingsguard",
+      "allegiance": "House Lannister, Warden of the East (formerly)",
+      "culture": "Westermen",
+      "born": "In 266 AC, at Casterly Rock",
+      "issue": "Joffrey Baratheon (bastard), Myrcella Baratheon (bastard), Tommen Baratheon (bastard)",
+      "books": "The World of Ice & Fire (mentioned), A Game of Thrones (appears), A Clash of Kings (appears), A Storm of Swords (POV), A Feast for Crows (POV), A Dance with Dragons (POV), The Winds of Winter (mentioned)"
+    },
+    {
+      "id": "6",
+      "imgSrc": "https://awoiaf.westeros.org/images/thumb/a/a8/Knowledge_is_power_by_robotdelespacio.jpg/300px-Knowledge_is_power_by_robotdelespacio.jpg",
+      "name": "Petyr Baelish",
+      "alias": "Littlefinger, Lord Littlefinger",
+      "title": "Master of coin (formerly), Lord Paramount of the Trident, Lord of Harrenhal, Lord Protector of the Eyrie and the Vale of Arryn",
+      "allegiance": "House Baelish of the Fingers, House Baelish of Harrenhal",
+      "culture": "Valemen",
+      "born": "In 268 AC, at the Fingers",
+      "spouse": "Lady Lysa Arryn",
+      "books": "A Game of Thrones (appears), A Clash of Kings (appears),A Storm of Swords (appears), A Feast for Crows (appears), A Dance with Dragons (mentioned)"
+    },
+    {
+      "id": "7",
+      "imgSrc": "https://awoiaf.westeros.org/images/thumb/4/4a/Brittmartin_TywinL.jpg/300px-Brittmartin_TywinL.jpg",
+      "name": "Tywin Lannister",
+      "alias": "The great lion of the rock, The old lion",
+      "title": "Lord of Casterly Rock, Shield of Lannisport, Warden of the West, Hand of the King, Savior of the City (of King's Landing), Ser",
+      "allegiance": "House Lannister",
+      "culture": "Westermen",
+      "born": "In 242 AC, at Casterly Rock",
+      "died": "In 300 AC, at King's Landing",
+      "spouse": "Lady Joanna Lannister",
+      "issue": "Cersei Lannister, Jaime Lannister, Tyrion Lannister",
+      "books": "The World of Ice & Fire (mentioned), A Game of Thrones (appears), A Clash of Kings (appears), A Storm of Swords (appears), A Feast for Crows (mentioned), A Dance with Dragons (mentioned), The Winds of Winter (mentioned)"
+    },
+    {
+      "id": "8",
+      "imgSrc": "https://awoiaf.westeros.org/images/thumb/4/4f/MagaliVilleneuve_CLface.jpg/300px-MagaliVilleneuve_CLface.jpg",
+      "name": "Cersei Lannister",
+      "title": "Light of the West, Queen Dowager, Protector of the Realm, Lady of Casterly Rock, Queen Regent",
+      "allegiance": "House Lannister, House Baratheon of King's Landing",
+      "culture": "Westermen",
+      "born": "In 266 AC, at Casterly Rock",
+      "spouse": "King Robert I Baratheon",
+      "issue": "Joffrey Baratheon (bastard), Myrcella Baratheon (bastard), Tommen Baratheon (bastard)",
+      "books": "A Game of Thrones (appears), A Clash of Kings (appears),A Storm of Swords (appears), A Feast for Crows (appears), A Dance with Dragons (mentioned)"
+    }
+  ]
+}

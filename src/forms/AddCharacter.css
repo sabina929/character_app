@@ -1,0 +1,51 @@
+.card {
+  transform-origin: top;
+}
+
+.card-header {
+  background-color: rgba(146, 110, 19, 0.1);
+  border-color: rgb(146, 110, 19, 0.4);
+  text-align: center;
+}
+.card-header h4 {
+  font-size: 1.85rem;
+}
+
+label {
+  font-size: 1.1rem;
+}
+.form-control {
+  border-color: rgb(146, 110, 19, 0.6);
+}
+.form-control::placeholder {
+  color: rgba(146, 110, 19, 0.5);
+}
+.form-control:focus {
+  border-color: rgb(146, 110, 19);
+  box-shadow: 0 0 5px 0.1rem rgba(146, 110, 19, 0.25);
+}
+
+button.btn {
+  background-color: hsl(43, 77%, 35%);
+  color: rgb(255, 231, 211);
+  font-size: 1.2rem;
+}
+button.btn:hover {
+  background-color: hsl(43, 77%, 32%);
+}
+button.btn:focus {
+  background-color: hsl(43, 77%, 32%);
+  box-shadow: none;
+}
+a.btn {
+  background-color: hsl(43, 77%, 35%);
+  color: rgb(255, 231, 211);
+  font-size: 1.2rem;
+}
+a.btn:hover {
+  background-color: hsl(43, 77%, 32%);
+}
+a.btn:focus {
+  background-color: hsl(43, 77%, 32%);
+  box-shadow: none;
+}
