@@ -4,6 +4,10 @@ import posed from "react-pose";
 import CharacterConsumer from "../context";
 import axios from "axios";
 
+
+// https://my-json-server.typicode.com/sabina929/character-json-server/characters
+
+
 // var uniqid = require('uniqid');
 
 const Animation = posed.div({
@@ -93,7 +97,7 @@ class AddCharacter extends Component {
       return;
     }
     //POST Request
-    const response = await axios.post("http://localhost:3004/characters", newCharacter);
+    const response = await axios.post("https://my-json-server.typicode.com/sabina929/character-json-server/characters", newCharacter);
 
     dispatch({
       type: "ADD_CHARACTER",

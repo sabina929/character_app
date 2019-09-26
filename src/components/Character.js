@@ -47,7 +47,7 @@ class Character extends Component {
     const {id} = this.props;
 
     //DELETE Request
-    await axios.delete(`http://localhost:3004/characters/${id}`);
+    await axios.delete(`https://my-json-server.typicode.com/sabina929/character-json-server/characters/${id}`);
     // Consumer Dispatch
     dispatch({
       type: "DELETE_CHARACTER",
