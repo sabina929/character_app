@@ -8,7 +8,6 @@ import axios from "axios";
 // https://my-json-server.typicode.com/sabina929/character-json-server/characters
 
 
-// var uniqid = require('uniqid');
 
 const Animation = posed.div({
   visible: {
@@ -54,8 +53,6 @@ class AddCharacter extends Component {
   }
 
 
-
-
   validateForm = () => {
     const {imgSrc, name, alias, title, allegiance, culture, born, spouse, issue, books} = this.state;
     if (imgSrc === "" || name === "" || alias === "" || title === "" || allegiance === "" || culture === "" || born === "" || spouse === "" || issue === "" || books === "") {
@@ -75,7 +72,6 @@ class AddCharacter extends Component {
     // console.log("test");
     const {imgSrc, name, alias, title, allegiance, culture, born, spouse, issue, books} = this.state;
     const newCharacter = {
-      // id: uniqid(),
       imgSrc,
       name,
       alias,
@@ -101,7 +97,6 @@ class AddCharacter extends Component {
 
     dispatch({
       type: "ADD_CHARACTER",
-      // payload: newCharacter
       payload: response.data
     })
     // console.log(newCharacter);
@@ -192,12 +187,6 @@ class AddCharacter extends Component {
       }
         </CharacterConsumer>
     )
-
-
-
-
-
-
 
   }
 }

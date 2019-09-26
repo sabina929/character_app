@@ -24,18 +24,7 @@ class Character extends Component {
     books: "No Info"
   };
 
-  // constructor(props) {
-  //   super(props);
 
-  //   this.state = {
-  //     isVisible: false
-  //   }
-  // }
-
-  // constructor(props) {
-  //   super(props)
-  //   this.onClickEvent = this.onClickEvent.bind(this);
-  // }
 
   onClickEvent = e => {
     this.setState({
